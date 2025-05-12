@@ -9,10 +9,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:get_it/get_it.dart';
 
-// Project imports:
-const bool isThemeEnabled = false;
-const bool isOfflineModeEnabled = false;
-
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
